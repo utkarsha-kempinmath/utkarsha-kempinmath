@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="280" src="assets/octocat-1769517169148.png"  />
-</div>
 
 # 💫 About Me:
 🔭 Tryna make my wild ideas a reality, One cup of coffee at a time☕<br>🌱 I’m currently Practicing MERN Stack and learning ML<br>⚡ So Welcome to my ordered chaos
