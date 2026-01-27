@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3E0bDFiMDZvb3A2Mm9hZDFpcng2aXQwMmEwa2Nob3o4YjRrbndyayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif"  />
+  <img height="150" src="https://drive.google.com/file/d/1pnAd352h_YJyaPhoTuhoKBaedB_pmMPw/view?usp=sharing"  />
 </div>
 
 # 💫 About Me:
