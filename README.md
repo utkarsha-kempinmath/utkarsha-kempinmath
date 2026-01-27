@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1pnAd352h_YJyaPhoTuhoKBaedB_pmMPw/view?usp=sharing"  />
+  <img height="150" src="assets/octocat.png"  />
 </div>
 
 # 💫 About Me:
