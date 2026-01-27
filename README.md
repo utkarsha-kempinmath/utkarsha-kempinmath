@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="assets/octocat.png"  />
+  <img height="150" src="assets/octocat-1769517169148.png"  />
 </div>
 
 # 💫 About Me:
