@@ -4,6 +4,7 @@
 I build full stack systems with clarity, structure, and long term scalability in mind.
 
 Currently:
+
 🚀 Building MonthEnd, a behavioral finance platform  
 🧠 Designing ML ready backend architectures  
 💻 Practicing production grade MERN stack development  
