@@ -31,54 +31,32 @@ Key focus areas:
 
 Built with long term scalability and clean system design in mind.
 
-
-### ♻️ **ReCraft**
-A responsive Instagram style upcycling social interface built using HTML, CSS, and JavaScript.
-
-This project focuses heavily on:
-- UI consistency and layout structuring
-- Flexbox & Grid based responsive design
-- Clean card based architecture
-- Interactive hover effects and transitions
-
-Designed as a frontend-focused build to strengthen UI/UX fundamentals and visual hierarchy skills.
-
 ### 🧩 Mini Projects
 
-These projects were built to strengthen backend logic, REST principles, and CRUD structuring:
+These projects helped strengthen my understanding of REST APIs, authentication, and backend structuring.
 
 #### 📝 **notes-app**
-A backend focused CRUD application built with Node.js, Express, and MongoDB.  
-Implements:
-- User authentication
-- JWT based route protection
-- Create, update, delete note functionality
-- Middleware based authorization flow
-
-Primary learning focus: API structuring and clean controller separation.
-
----
+A Node.js + Express + MongoDB CRUD application with JWT authentication and protected routes.  
+Focus: clean API structuring, middleware flow, and secure note management.
 
 #### 🐦 **mini-Social-Media-app**
-A simplified Twitter/X style backend clone designed to practice relational data modeling and protected routes.
+A simplified Twitter/X-style backend clone implementing user authentication and post creation.  
+Focus: relational schema design and handling multi-collection logic.
 
-Implements:
-- User authentication
-- Post creation and deletion
-- Basic feed logic
-- MongoDB schema relationships
-
-Focus: handling multi collection logic and scalable API design.
+#### 🧪 **scatch**
+An experimental Express.js project used to explore routing, middleware chaining, and request-response flow.
 
 ---
 
-#### 🧪 **scatch**
-An experimental Express.js project built to explore backend routing, request handling, and server-side structuring.
+### ♻️ **ReCraft**
+A responsive Instagram-style upcycling social interface built using HTML, CSS, and JavaScript.
 
-Used as a playground to deepen understanding of:
-- Route flow
-- Middleware chaining
-- Request-response lifecycle
+Focus areas:
+- Responsive layout using Flexbox & Grid
+- Clean card-based UI structure
+- Interactive styling and transitions
+- Strengthening frontend fundamentals
+
 
 
 ## 🌐 Socials:
