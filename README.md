@@ -1,9 +1,83 @@
-<div align="center">
-  <img height="280" src="assets/octocat-1769517169148.png"  />
-</div>
 
-# 💫 About Me:
-🔭 Tryna make my wild ideas a reality, One cup of coffee at a time☕<br>🌱 I’m currently Practicing MERN Stack and learning ML<br>⚡ So Welcome to my ordered chaos
+# Hey, I’m Utkarsha
+
+I build full stack systems with clarity, structure, and long term scalability in mind.
+
+Currently:
+🚀 Building MonthEnd, a behavioral finance platform  
+🧠 Designing ML ready backend architectures  
+💻 Practicing production grade MERN stack development  
+
+I’m not just coding, I’m learning to build products.
+
+Welcome to my structured chaos.
+
+## What I’m Building
+
+Here are some of my core projects and what they’re really about:
+
+### 💸 **MonthEnd**
+A full stack MERN + AIML focused behavioral finance platform currently Pre-Incubated at eDC, IIT Delhi.
+
+Unlike traditional expense trackers, MonthEnd is designed to understand *why* users spend, not just *how much* they spend. The backend follows a clean modular architecture (routes → controllers → middleware → service layer) and is structured to be ML ready for future behavioral insights.
+
+Key focus areas:
+- Secure JWT authentication with httpOnly cookies
+- Allowance + expense tracking with aggregation logic
+- Analytics dashboard (income, spent, remaining, category split)
+- Rule-based insights (free tier)
+- Future ML driven pattern analysis (premium tier)
+
+Built with long term scalability and clean system design in mind.
+
+
+### ♻️ **ReCraft**
+A responsive Instagram style upcycling social interface built using HTML, CSS, and JavaScript.
+
+This project focuses heavily on:
+- UI consistency and layout structuring
+- Flexbox & Grid based responsive design
+- Clean card based architecture
+- Interactive hover effects and transitions
+
+Designed as a frontend-focused build to strengthen UI/UX fundamentals and visual hierarchy skills.
+
+### 🧩 Mini Projects
+
+These projects were built to strengthen backend logic, REST principles, and CRUD structuring:
+
+#### 📝 **notes-app**
+A backend focused CRUD application built with Node.js, Express, and MongoDB.  
+Implements:
+- User authentication
+- JWT based route protection
+- Create, update, delete note functionality
+- Middleware based authorization flow
+
+Primary learning focus: API structuring and clean controller separation.
+
+---
+
+#### 🐦 **mini-Social-Media-app**
+A simplified Twitter/X style backend clone designed to practice relational data modeling and protected routes.
+
+Implements:
+- User authentication
+- Post creation and deletion
+- Basic feed logic
+- MongoDB schema relationships
+
+Focus: handling multi collection logic and scalable API design.
+
+---
+
+#### 🧪 **scatch**
+An experimental Express.js project built to explore backend routing, request handling, and server-side structuring.
+
+Used as a playground to deepen understanding of:
+- Route flow
+- Middleware chaining
+- Request-response lifecycle
 
 
 ## 🌐 Socials:
