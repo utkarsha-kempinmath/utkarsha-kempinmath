@@ -1,83 +1,130 @@
-<div align="left">
-
 # Hey, I'm Utkarsha 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=20&duration=3000&pause=1200&color=C98A4B&width=520&lines=Full-Stack+Mobile+%26+Web+Developer;Founder+behind+MonthEnd+(IIT+Delhi+Pre-Incubated);Top+5+Nationally+%E2%80%94+MIT+India+Hackathon;IEEE+Research+Co-Author;Shipping+production+apps+from+idea+to+deployment." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=C98A4B&width=550&lines=Full-Stack+Mobile+%26+Backend+Developer;Founder+behind+MonthEnd+(IIT+Delhi+Pre-Incubated);Top+5+Nationally+%E2%80%94+MIT+India+Hackathon;Published+IEEE+Research+Co-Author;Shipping+production+apps+from+idea+to+deployment." alt="Typing SVG" />
 </a>
 
-<br/>
+I build full-stack systems with clarity, structure, and long-term scalability in mind.
 
-Full-stack mobile engineer and founder based in Pune, India. I build production-grade mobile and web applications with a focus on clean systems architecture, telemetry, and smooth end-to-end delivery.
+**Currently:**
+- 🚀 Building **MonthEnd** — a behavioral budgeting platform (*65 test users, 70% retention, 200+ waitlist*)
+- 🏛️ Pre-Incubated at **IIT Delhi Emergence** & Finalist at **Startup Clinic IIT Delhi**
+- 🧠 Designing ML-ready behavioral analytics pipelines and mobile telemetry systems
+- 💻 Shipping production-ready Android apps with automated CI/CD (EAS) and Docker
 
----
-
-### 🚀 Highlights & Recognitions
-
-- 🏛️ **IIT Delhi Emergence Pre-Incubation**: Founder of [MonthEnd](https://github.com/utkarsha-kempinmath), a behavioral budgeting app (65 test users, 70% 30-day retention, 200+ waitlist).
-- 🏆 **Startup Clinic IIT Delhi**: Selected as Finalist and pitched to expert venture panels.
-- 🥇 **Top 5 Nationally — MIT India Hackathon**: Shortlisted through 2 elimination rounds out of 120 teams for building [Aarogya Seva](https://github.com/utkarsha-kempinmath).
-- 📄 **IEEE Research Co-Author**: Co-authored peer-reviewed research on *"Non-Intrusive, Privacy-Preserving Mental Health Monitoring using Passive Environmental Sensing"*.
-- 🌐 **Google Campus Ambassador**: Organized technical workshops on campus driving adoption of Google technologies and GenAI.
+*I’m not just coding, I’m learning to build products.*  
+*Welcome to my structured chaos.*
 
 ---
 
-### 🛠️ What I Ship With
+## 🏆 Achievements & Programs
 
-```
-Mobile & Web      React Native (Expo), React.js, TypeScript, JavaScript, HTML, CSS, Tailwind
-Backend & APIs    Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, REST APIs
-DevOps & Infra    Docker, Render, EAS Build/Submit, CI/CD, Google OAuth 2.0, JWT, Git
-Languages         JavaScript, TypeScript, Python, C++, C, Kotlin
-```
+- 🥇 **MIT India Hackathon — Top 5 Nationally**: Shortlisted through 2 elimination rounds out of 120 competing teams across India for building **Aarogya Seva**.
+- 🏛️ **IIT Delhi Emergence Pre-Incubation Program**: Selected for a milestone-based startup incubation program to refine MonthEnd's MVP and product strategy.
+- 🎯 **Startup Clinic IIT Delhi — Finalist**: Pitched MonthEnd to expert venture panels and received structured leadership mentorship.
+- 📄 **IEEE Research Co-Author**: *"Non-Intrusive, Privacy-Preserving Mental Health Monitoring using Passive Environmental Sensing"* — hybrid anomaly detection framework.
+- 🌐 **Google Campus Ambassador**: Organized and promoted technical events on campus focused on Google technologies and GenAI.
 
 ---
 
-### 💼 Landmark Projects
+## 🚀 What I’m Building
 
-#### [MonthEnd](https://github.com/utkarsha-kempinmath) — Behavioral Budgeting & Spend Psychology
+### 💸 **MonthEnd — Behavioral Budgeting Platform**
 > *React Native, Node.js, Express, MongoDB, Google OAuth 2.0, Docker, Render, EAS*
-- Scaled to **65 test users** with **70% 30-day retention** and **200+ organic waitlist signups**.
-- Architected ML-ready analytics pipelines and modular backend services for spending velocity and budget envelopes.
-- Configured production CI/CD via Expo Application Services (EAS) with multi-environment deployment.
+- **65 test users**, **70% 30-day retention**, and **200+ on the organic waitlist**.
+- Pre-incubated at **IIT Delhi Emergence** and Finalist at **Startup Clinic IIT Delhi**.
+- Unlike traditional expense trackers, MonthEnd understands *why* users spend, not just *how much*.
+- Modular backend architecture with secure Google OAuth 2.0 and JWT authentication.
+- Full DevOps lifecycle: automated CI/CD via Expo Application Services (EAS), multi-environment configuration (Dev, Preview, Prod), and containerized services on Render with Docker.
 
-#### [Aarogya Seva](https://github.com/utkarsha-kempinmath) — Decentralized Rural Healthcare Telemedicine
+### 🏥 **Aarogya Seva — Decentralized Rural Healthcare Telemedicine**
 > *React Native (Expo), Spring Boot Microservices, PostgreSQL, Google OAuth, EAS*
-- Role-based healthcare platform uniting Patients, Doctors, ASHA workers, and Hospital Admins.
-- Top 5 Nationally at the **MIT India Hackathon** among 120 competing teams.
-- Built-in live epidemiological contagion mapping (Red/Yellow/Green perimeters) and one-tap emergency SOS broadcast.
+- **Top 5 Nationally at MIT India Hackathon** among 120 competing teams.
+- Role-based mobile client adapting to 4 stakeholders: Patients, Doctors, field ASHA workers, and Hospital Admins.
+- Connected to 8 Spring Boot microservices with native Google OAuth sign-in.
+- Live epidemiological contagion mapping into Red, Yellow, and Green risk containment zones with one-tap emergency SOS broadcast.
 
-#### [MindBuddy](https://github.com/utkarsha-kempinmath) — Passive Behavioral Sensing & Wellness Companion
+### 🧠 **MindBuddy — Clinical Mental Wellness Monitoring**
 > *React Native (Expo), TypeScript, Node.js, Express.js, MongoDB, Kotlin*
-- System architecture for on-device behavioral telemetry without capturing user keystrokes or draining battery (< 1.8% / 24h).
+- System architecture for on-device behavioral telemetry without capturing user keystrokes or draining battery (< 1.8% over 24h).
+- Custom native Android Kotlin background bridges for ambient sensing, screen-time monitoring, and usage analytics.
 - Backed by our accepted **IEEE research paper** on passive environmental anomaly detection.
 
+### 📋 **Smart Attendance**
+> *React.js, QR Verification, REST APIs*
+- QR-based double-factor verification web app ensuring high-integrity data entry with a responsive UI.
+
 ---
 
-### 📊 GitHub Activity
+## 💻 Tech Stack
+
+### Languages & Frameworks
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend, Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsha-kempinmath&show_icons=true&theme=dark&hide_border=true&bg_color=141924&title_color=C98A4B&icon_color=C98A4B&text_color=F6F0E7" height="150" alt="Utkarsha's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=utkarsha-kempinmath&theme=dark&hide_border=true&background=141924&ring=C98A4B&fire=C98A4B&currStreakLabel=C98A4B&sideLabels=F6F0E7&dates=8B949E" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarsha-kempinmath&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsha-kempinmath&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=utkarsha-kempinmath&theme=dark&hide_border=false" alt="Streak Stats" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=utkarsha-kempinmath&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+### ✍️ Random Dev Quote
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=utkarsha-kempinmath&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
 ---
 
-### 📬 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:utkarshakempinmath1725@gmail.com?subject=Project%20inquiry">
-    <img src="https://img.shields.io/badge/Email-utkarshakempinmath1725%40gmail.com-C98A4B?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/utkarsha-kempinmath-269208290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Utkarsha%20Kempinmath-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/utkarsha-kempinmath" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-utkarsha--kempinmath-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsha-kempinmath-269208290)
+[![Email](https://img.shields.io/badge/Email-utkarshakempinmath1725%40gmail.com-C98A4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshakempinmath1725@gmail.com?subject=Project%20inquiry)
+[![GitHub](https://img.shields.io/badge/GitHub-utkarsha--kempinmath-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarsha-kempinmath)
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=utkarsha-kempinmath&icon=0&color=0" alt="Visitor Count" />
   </a>
 </p>
-
-</div>
-
