@@ -1,84 +1,83 @@
+<div align="left">
 
-# Hey, I’m Utkarsha
+# Hey, I'm Utkarsha 👋
 
-I build full stack systems with clarity, structure, and long term scalability in mind.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=20&duration=3000&pause=1200&color=C98A4B&width=520&lines=Full-Stack+Mobile+%26+Web+Developer;Founder+behind+MonthEnd+(IIT+Delhi+Pre-Incubated);Top+5+Nationally+%E2%80%94+MIT+India+Hackathon;IEEE+Research+Co-Author;Shipping+production+apps+from+idea+to+deployment." alt="Typing SVG" />
+</a>
 
-Currently:
+<br/>
 
-🚀 Building MonthEnd, a behavioral finance platform  
-🧠 Designing ML ready backend architectures  
-💻 Practicing production grade MERN stack development  
-
-I’m not just coding, I’m learning to build products.
-
-Welcome to my structured chaos.
-
-## What I’m Building
-
-Here are some of my core projects and what they’re really about:
-
-### 💸 **MonthEnd**
-A full stack MERN + AIML focused behavioral finance platform currently Pre-Incubated at eDC, IIT Delhi.
-
-Unlike traditional expense trackers, MonthEnd is designed to understand *why* users spend, not just *how much* they spend. The backend follows a clean modular architecture (routes → controllers → middleware → service layer) and is structured to be ML ready for future behavioral insights.
-
-Key focus areas:
-- Secure JWT authentication with httpOnly cookies
-- Allowance + expense tracking with aggregation logic
-- Analytics dashboard (income, spent, remaining, category split)
-- Rule-based insights (free tier)
-- Future ML driven pattern analysis (premium tier)
-
-Built with long term scalability and clean system design in mind.
-
-### 🧩 Mini Projects
-
-These projects helped strengthen my understanding of REST APIs, authentication, and backend structuring.
-
-#### 📝 **notes-app**
-A Node.js + Express + MongoDB CRUD application with JWT authentication and protected routes.  
-Focus: clean API structuring, middleware flow, and secure note management.
-
-#### 🐦 **mini-Social-Media-app**
-A simplified Twitter/X-style backend clone implementing user authentication and post creation.  
-Focus: relational schema design and handling multi-collection logic.
-
-#### 🧪 **scatch**
-An experimental Express.js project used to explore routing, middleware chaining, and request-response flow.
+Full-stack mobile engineer and founder based in Pune, India. I build production-grade mobile and web applications with a focus on clean systems architecture, telemetry, and smooth end-to-end delivery.
 
 ---
 
-### ♻️ **ReCraft**
-A responsive Instagram-style upcycling social interface built using HTML, CSS, and JavaScript.
+### 🚀 Highlights & Recognitions
 
-Focus areas:
-- Responsive layout using Flexbox & Grid
-- Clean card-based UI structure
-- Interactive styling and transitions
-- Strengthening frontend fundamentals
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsha-kempinmath) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=utkarsha-kempinmath&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=utkarsha-kempinmath&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsha-kempinmath&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=utkarsha-kempinmath&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=utkarsha-kempinmath&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🏛️ **IIT Delhi Emergence Pre-Incubation**: Founder of [MonthEnd](https://github.com/utkarsha-kempinmath), a behavioral budgeting app (65 test users, 70% 30-day retention, 200+ waitlist).
+- 🏆 **Startup Clinic IIT Delhi**: Selected as Finalist and pitched to expert venture panels.
+- 🥇 **Top 5 Nationally — MIT India Hackathon**: Shortlisted through 2 elimination rounds out of 120 teams for building [Aarogya Seva](https://github.com/utkarsha-kempinmath).
+- 📄 **IEEE Research Co-Author**: Co-authored peer-reviewed research on *"Non-Intrusive, Privacy-Preserving Mental Health Monitoring using Passive Environmental Sensing"*.
+- 🌐 **Google Campus Ambassador**: Organized technical workshops on campus driving adoption of Google technologies and GenAI.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=utkarsha-kempinmath&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ What I Ship With
+
+```
+Mobile & Web      React Native (Expo), React.js, TypeScript, JavaScript, HTML, CSS, Tailwind
+Backend & APIs    Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, REST APIs
+DevOps & Infra    Docker, Render, EAS Build/Submit, CI/CD, Google OAuth 2.0, JWT, Git
+Languages         JavaScript, TypeScript, Python, C++, C, Kotlin
+```
+
+---
+
+### 💼 Landmark Projects
+
+#### [MonthEnd](https://github.com/utkarsha-kempinmath) — Behavioral Budgeting & Spend Psychology
+> *React Native, Node.js, Express, MongoDB, Google OAuth 2.0, Docker, Render, EAS*
+- Scaled to **65 test users** with **70% 30-day retention** and **200+ organic waitlist signups**.
+- Architected ML-ready analytics pipelines and modular backend services for spending velocity and budget envelopes.
+- Configured production CI/CD via Expo Application Services (EAS) with multi-environment deployment.
+
+#### [Aarogya Seva](https://github.com/utkarsha-kempinmath) — Decentralized Rural Healthcare Telemedicine
+> *React Native (Expo), Spring Boot Microservices, PostgreSQL, Google OAuth, EAS*
+- Role-based healthcare platform uniting Patients, Doctors, ASHA workers, and Hospital Admins.
+- Top 5 Nationally at the **MIT India Hackathon** among 120 competing teams.
+- Built-in live epidemiological contagion mapping (Red/Yellow/Green perimeters) and one-tap emergency SOS broadcast.
+
+#### [MindBuddy](https://github.com/utkarsha-kempinmath) — Passive Behavioral Sensing & Wellness Companion
+> *React Native (Expo), TypeScript, Node.js, Express.js, MongoDB, Kotlin*
+- System architecture for on-device behavioral telemetry without capturing user keystrokes or draining battery (< 1.8% / 24h).
+- Backed by our accepted **IEEE research paper** on passive environmental anomaly detection.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarsha-kempinmath&show_icons=true&theme=dark&hide_border=true&bg_color=141924&title_color=C98A4B&icon_color=C98A4B&text_color=F6F0E7" height="150" alt="Utkarsha's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=utkarsha-kempinmath&theme=dark&hide_border=true&background=141924&ring=C98A4B&fire=C98A4B&currStreakLabel=C98A4B&sideLabels=F6F0E7&dates=8B949E" height="150" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:utkarshakempinmath1725@gmail.com?subject=Project%20inquiry">
+    <img src="https://img.shields.io/badge/Email-utkarshakempinmath1725%40gmail.com-C98A4B?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/utkarsha-kempinmath-269208290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Utkarsha%20Kempinmath-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/utkarsha-kempinmath" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-utkarsha--kempinmath-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+</div>
+
